@@ -1,5 +1,6 @@
 # practice
-<<<<<<< HEAD
+=======
+```
 def test5():
     i=0
     sum=0
@@ -9,7 +10,7 @@ def test5():
         i += 1
         sum += t
     return sum
-
+```
 print(test5())
 =======
 ```
